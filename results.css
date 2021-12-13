@@ -1,0 +1,15 @@
+body {
+    text-align: left;
+    margin-left: 220px;
+    font-family: Gill Sans,Gill Sans MT,Calibri,sans-serif; 
+    color: white;
+    font-size: 140%;
+    background-color: SteelBlue;
+    background-image: url("https://caloriesburnedhq.com/img/BMI-Chart-768x631.jpg");
+    background-repeat: no-repeat;
+    background-position: 867px 63px;
+    background-size: 40%;
+}
+#large {
+    font-size: 150%;
+}
